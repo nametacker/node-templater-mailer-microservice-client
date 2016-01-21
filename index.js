@@ -1,9 +1,10 @@
 'use strict';
 
-var request = require('request-promise');
+var request = require('request-promise'),
+    _ = require('lodash');
 
 function TemplateMailerService(api) {
-    this.api = api;
+    this.api = _.trimEnd(api, '/');
 }
 
 TemplateMailerService.prototype.template = function (id, subject, html) {
