@@ -1,6 +1,6 @@
 {
   "name": "node-templater-mailer-microservice-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A client library for interacting with node-templater-mailer-microservice",
   "main": "index.js",
   "scripts": {
