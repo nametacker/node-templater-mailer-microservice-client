@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/nametacker/node-templater-mailer-microservice-client.git"
   },
-  "author": "Markus Tacker <m@cto.hiv>",
+  "author": "Markus Tacker <m@coderbyheart.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nametacker/node-templater-mailer-microservice-client/issues"
